@@ -1,0 +1,7 @@
+[requires]
+# add libraries here, search on https://conan.io/center
+fmt/8.0.1
+
+[options]
+*:shared=False
+
